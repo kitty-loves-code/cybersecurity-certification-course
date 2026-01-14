@@ -125,3 +125,133 @@ The course is based on the work of **Carolin Desirée Toepfer**, an external **C
 
 Start your journey in **practical, business-focused cybersecurity** and get ready for certification:  
 [https://cy-guide.com/p/from-zero-to-cybersecurity-certification](https://cy-guide.com/p/from-zero-to-cybersecurity-certification)
+
+# From Zero to Cybersecurity Certification
+**CISO-Style Training for Professionals, Teams, and Businesses — From Zero Idea to Successful Implementation**
+
+Take your first step into cybersecurity or upgrade your existing strategy. Implement practical controls and achieve certification readiness with this **structured 20-week program**. Designed for beginners, professionals, and business leaders alike, this course blends **hands-on learning, real-world insights, IT/AI security, and CISO-style guidance** to deliver measurable outcomes in time.
+
+Already have cybersecurity issues or clients demanding visible action immediately? **[Book your 1:1 Cybersecurity Strategy Kick-off](https://cy-guide.com/p/1-1-cybersecurity-strategy-kick-off-implementing-it-ai-security)** for personalized guidance.
+
+---
+
+## Why This Course Works
+
+- **CISO-Level Approach:** Learn governance, risk management, and security implementation like a Chief Information Security Officer.  
+- **Certification-Ready:** Align course outcomes with CyberTrust, ISO 27001, SOC 2, ISO 42001, ISO 22301, and other industry standards.  
+- **Practical Application:** Templates, exercises, and project tasks that can be implemented immediately.  
+- **Flexible & Scalable:** Ideal for individual learners, teams, and SMB cybersecurity training.  
+- **Implementation-Focused Learning:** Track progress, analyze risks, and learn how to manage cybersecurity certification projects.
+
+---
+
+## Course Modules: Step-by-Step Learning Path
+
+### Before You Start
+- **Highlights:** Mindset & project lead responsibilities, holistic cybersecurity approach, budgeting tips.  
+- **Develop a Cybersecurity Mindset for Beginners:** Learn how to think like a CISO, understand threats, and build strong security habits from day one.  
+- **Avoid Common Cybersecurity Budget Mistakes:** Discover how to prioritize spending, implement cost-effective controls, and prevent unnecessary overspending while protecting your organization.  
+
+### 1. Shifting Attack Scenarios
+- Understand threats: hackers, viruses, AI fraud, identity theft, deepfakes, work process attacks.  
+- **See How AI Impacts Cybersecurity:** Explore how AI can strengthen defenses or introduce new threats.  
+- **Implement Effective Fraud Detection in Daily Business:** Learn strategies to spot and prevent fraud, phishing, and AI-driven scams.  
+
+### 2. Quick Fixes & Work Process Changes
+- Implement security functions, updates, employee lifecycle changes, penalties, and feedback loops.  
+- **Achieve Quick Cybersecurity Wins for SMBs:** Implement fast, practical measures to immediately reduce risk.  
+- **Boost Your Security Efficiently:** Prioritize low-cost, high-impact actions that strengthen defenses without overcomplicating workflows.  
+
+### 3. Legal Requirements
+- Understand data protection, business continuity, AI, software/IT compliance, industry rules, and supply chain controls.  
+- **Meet Small Business Cybersecurity Legal Requirements:** Understand regulatory obligations, standards, and compliance steps to protect your company.  
+- **Data Protection for SMBs:** Safeguard client and employee information, implement privacy policies, and prevent data breaches.  
+
+### 4. Risk Matrix Development
+- Holistic risk view, dynamic changes, research, CISO insights, people skills, time management.  
+- **How to Build a Cybersecurity Risk Matrix:** Identify, assess, and prioritize risks systematically.  
+- **CISO Project Management Tips:** Use executive-level strategies to plan, track, and execute cybersecurity initiatives efficiently.  
+
+### 5. Project Templates
+- Templates include risk matrix, budget, client upsell identification, project timeline, roles/responsibilities, document folders, and worst-case plan.  
+- **Cybersecurity Project Management Templates:** Streamline planning and documentation of initiatives.  
+- **SMB Risk Management Tools:** Implement practical tools and frameworks to assess and mitigate risks effectively.  
+
+### 6. Training Leads to Participation
+- Early alarm system, mandatory training, anti-fraud campaigns, reputation management, brand safety.  
+- **Employee Cybersecurity Training Best Practices:** Equip your team with essential skills to prevent incidents.  
+- **Human Barrier Campaigns:** Foster secure behaviors and awareness to counter social engineering attacks.  
+
+### 7. Choose the Right Framework
+- Metrics, frameworks (CyberTrust, ISO27001, ISO42001, ISO22301, SOC2), industry certifications, partner selection.  
+- **Choosing a Cybersecurity Framework:** Select the right framework based on size, industry, and risk profile.  
+- **CyberTrust vs ISO 27001 vs SOC2:** Compare benefits, requirements, and applicability of each leading security standard.  
+
+### 8. Cybersecurity Project Planning
+- Overview, double-checks, meetings, performance, motivation, partners, milestones, ISMS setup, tools.  
+- **Cybersecurity Project Planning for Small Businesses:** Organize tasks, timelines, and resources efficiently.  
+- **Implement ISMS Effectively:** Establish an Information Security Management System aligned with standards and compliance.  
+
+### 9. IT Infrastructure Overview
+- Workplace, infrastructure, development, products, fraud/phishing detection, communication strategies.  
+- **SMB IT Infrastructure Security:** Secure networks, endpoints, and cloud systems to prevent cyberattacks.  
+- **Protect Digital Assets:** Safeguard sensitive data, intellectual property, and business-critical information.  
+
+### 10. Worst Case Plan
+- Key people, phone numbers, SLAs, process quality, sensitive info handling, certificate review.  
+- **Business Continuity Planning:** Ensure operations continue during disruptions or attacks.  
+- **Cybersecurity Contingency Planning:** Prepare strategies to respond, minimize damage, and recover quickly.  
+
+### 11. Policies
+- Templates, industry add-ons, customization, triple-check, framework prep, documentation tips.  
+- **Cybersecurity Policy Templates:** Streamline creation of governance and compliance policies.  
+- **SMB Security Documentation:** Organize procedures, evidence, and control records for audits.  
+
+### 12. Vendor Management
+- Client/vendor roles, IT vendor onboarding, assessment, audit prep, contract negotiations.  
+- **Vendor Risk Management in Cybersecurity:** Evaluate third-party providers to reduce supply chain vulnerabilities.  
+- **Third-Party IT Security Assessment:** Assess vendors’ security practices and compliance.  
+
+### 13. Contact to Stakeholders & Regulators
+- Institutions, networks, working groups, navigating compliance.  
+- **Cybersecurity Stakeholder Engagement:** Build relationships to drive initiatives and collaboration.  
+- **Regulatory Compliance for SMBs:** Understand and implement legal and industry requirements to protect your business.  
+
+### 14. Cybersecurity for Business Development
+- Upsell opportunities, brand trust, new business models, client acquisition.  
+- **Using Cybersecurity to Grow Your Business:** Leverage security practices as a competitive advantage.  
+- **Brand Trust Through Security:** Demonstrate commitment to data protection and strengthen reputation.  
+
+### 15. Future of Cybersecurity
+- AI, agents, quantum computing, fraud, dependencies.  
+- **Future Cybersecurity Trends:** Stay ahead with emerging technologies and threats.  
+- **AI in Cybersecurity Risk Management:** Detect threats, predict risks, and automate protections.  
+
+---
+
+## How the Course Works
+
+- **Structured Learning:** Watch modules, complete exercises, and use templates.  
+- **Hands-On Projects:** Apply lessons immediately in your business context.  
+- **Focus on Progress:** Track learning outcomes, identify gaps, assess risks, and implement solutions.  
+- **Optional 1:1 Advisory:** Personalized guidance for certification readiness.  
+
+**[Book your 1:1 Cybersecurity Strategy Kick-off](https://cy-guide.com/p/1-1-cybersecurity-strategy-kick-off-implementing-it-ai-security)**
+
+---
+
+## Who Should Enroll
+
+- Founders and owners  
+- Team leads and managers  
+- Startups and scaleups  
+- Service providers and consultants  
+- Aspiring cybersecurity professionals  
+
+---
+
+## Start Your Cybersecurity Journey Today!
+
+Gain **hands-on skills, certification readiness, and CISO-level guidance** in one structured, 20-week program. Begin your journey from zero to certification-ready now:  
+**[Enroll Now](https://cy-guide.com/p/from-zero-to-cybersecurity-certification)**
+
